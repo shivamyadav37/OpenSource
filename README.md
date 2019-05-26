@@ -6,3 +6,5 @@
 **Free CAD [here](https://www.freecadweb.org/)**
 
 **OpenToonz [here](https://opentoonz.github.io/e/)**
+
+**Bit Bucket [here](https://bitbucket.org/)**
