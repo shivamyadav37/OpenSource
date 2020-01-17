@@ -13,4 +13,4 @@
 
 **TinkerCad [here](https://www.tinkercad.com/)**
 
-**[Hyperskill](https://hi.hyperskill.org/)**
+**Hyperskill [here](https://hi.hyperskill.org/)**
