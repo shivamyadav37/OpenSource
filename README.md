@@ -12,3 +12,5 @@
 **Souceforge [here](https://sourceforge.net/)**
 
 **TinkerCad [here](https://www.tinkercad.com/)**
+
+**[Hyperskill](https://hi.hyperskill.org/)**
